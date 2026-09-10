@@ -1,6 +1,4 @@
-# 👋 Olá, eu sou o Jorge Andrade
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=FF2E88&center=true&vCenter=true&width=600&lines=Administrador+de+Redes+%26+Infraestrutura+S%C3%AAnior;19+anos+de+experi%C3%AAncia+em+TI;Redes+%7C+Virtualiza%C3%A7%C3%A3o+%7C+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+# Olá, eu sou o Jorge Andrade
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff2e88)](https://linkedin.com/in/jorgeleandro)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff2e88)](https://github.com/jleoandrade)
