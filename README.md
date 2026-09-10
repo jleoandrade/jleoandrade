@@ -8,7 +8,7 @@ Administrador de Redes e Infraestrutura Sênior focado em Engenharia de Sistemas
 ---
 
 ## 📌 Trajetória Profissional
-Com **19 anos de experiência em TI**, atuo no desenho, implementação e sustentação de ambientes de infraestrutura de alta criticidade. Minha bagagem engloba a liderança técnica e o gerenciamento de soluções robustas de rede e segurança em empresas de grande porte no mercado global e nacional, como **Amazon**, **HSBC** e **Klabin**.
+Com **19 anos de experiência em TI**, atuo no desenho, implementação e sustentação de ambientes de infraestrutura de alta criticidade. Minha bagagem engloba a liderança técnica e o gerenciamento de soluções robustas de rede e segurança em empresas de grande porte no mercado global e nacional, como **Avanade**,**Amazon**, **HSBC** e **Klabin**.
 
 ---
 
